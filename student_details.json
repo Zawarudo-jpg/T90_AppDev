@@ -3,14 +3,14 @@
         {
             "Name": "Jeomar Magsacay Baay",
             "Age": "22",
-            "Favorite_Quotes": "As long as I live, there are infinite chances"
+            "FavoriteQuotes": "As long as I live, there are infinite chances"
         }
     ],
     "details": [
         {
-            "Class_Section": "T90",
-            "Section_Code": "CC 131",
-            "BukSU_Email": "2001104837@student.buksu.edu.ph"
+            "ClassSection": "T90",
+            "SectionCode": "CC 131",
+            "BukSUEmail": "2001104837@student.buksu.edu.ph"
         }
     ]
 }
